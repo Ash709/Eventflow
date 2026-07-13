@@ -10,7 +10,7 @@ import Checkout from "./pages/Checkout";
 import Login from "./pages/Login";
 import Favorites from "./pages/Favorites";
 import Tickets from "./pages/Tickets";
-import ThankYou from "./pages/ThankYou";
+import ThankYou from "./pages/Thankyou";
 function App() {
   return (
     <BrowserRouter>

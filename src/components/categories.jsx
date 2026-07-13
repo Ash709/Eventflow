@@ -1,5 +1,5 @@
 import CategoryCard from "./CategoryCard";
-import categories from "../data/categories";
+import Categories from "../data/Categories";
 
 function Categories() {
   return (

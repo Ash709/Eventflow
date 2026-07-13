@@ -4,7 +4,7 @@ function SearchBar() {
       <input
         type="text"
         placeholder="Search events..."
-        className="w-full p-4 rounded-lg border border-gray-300 text-black"
+        className="w-full p-4 rounded-lg border border-gray-300 text-white"
       />
 
     </div>

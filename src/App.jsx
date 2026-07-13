@@ -10,7 +10,7 @@ import Checkout from "./pages/Checkout";
 import Login from "./pages/Login";
 import Favorites from "./pages/Favorites";
 import Tickets from "./pages/Tickets";
-
+import ThankYou from "./pages/ThankYou";
 function App() {
   return (
     <BrowserRouter>
@@ -25,7 +25,9 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/favorites" element={<Favorites />} />
           <Route path="/tickets" element={<Tickets />} />
+          <Route path="/thankyou" element={<ThankYou />} />
         </Route>
+
 
       </Routes>
     </BrowserRouter>

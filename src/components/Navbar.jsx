@@ -7,12 +7,12 @@ function Navbar() {
 
         <NavLink
           to="/"
-          className="text-2xl font-bold text-blue-400"
+          className="text-lg md:text-2xl font-bold text-blue-400"
         >
           EventFlow
         </NavLink>
 
-        <ul className="flex gap-2 md:gap-8 text-sm md:text-base">
+        <ul className="flex gap-1 md:gap-8 text-xs md:text-base">
 
           <li>
             <NavLink to="/">Home</NavLink>

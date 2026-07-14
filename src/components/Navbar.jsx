@@ -12,7 +12,7 @@ function Navbar() {
           EventFlow
         </NavLink>
 
-        <ul className="flex gap-8">
+        <ul className="flex gap-2 md:gap-8 text-sm md:text-base">
 
           <li>
             <NavLink to="/">Home</NavLink>
